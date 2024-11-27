@@ -23,9 +23,9 @@ Este projeto nasceu no contexto das disciplinas de Engenharia de Software 2 e Es
 > git clone https://github.com/seu_usuario/projeto-base-funcionarios.git
 
 # Contribuidores
-1. Adryelle Caroline de Souza Calefi
-2. Brenda Ingrid Gaudêncio
-3. Marcos Moreira
-4. Tabata Étiele Roberto da Silva
+1. Adryelle Caroline de Souza Calefi [https://github.com/DryCaleffi]
+2. Brenda Ingrid Gaudêncio [https://github.com/brendagaudencio]
+3. Marcos Moreira [https://github.com/hmindiano]
+4. Tabata Étiele Roberto da Silva [https://github.com/TabataEtiele]
 
 Para saber mais consulte a nossa [Documentação ](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:fe74dc5a-0b0c-4b6f-9bee-f04d9412467a)
