@@ -28,4 +28,4 @@ Este projeto nasceu no contexto das disciplinas de Engenharia de Software 2 e Es
 3. Marcos Moreira
 4. Tabata Étiele Roberto da Silva
 
-Para saber mais consulte a nossa [Documentação ]([https://pages.github.com/](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:fe74dc5a-0b0c-4b6f-9bee-f04d9412467a))
+Para saber mais consulte a nossa [Documentação ]((https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:fe74dc5a-0b0c-4b6f-9bee-f04d9412467a))
